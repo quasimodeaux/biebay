@@ -15,7 +15,6 @@
   "dependencies": {
     "inquirer": "5.1.0",
     "mysql": "2.15.0"
-  }
   },
   "engines": {
     "node": "9.4.0"
