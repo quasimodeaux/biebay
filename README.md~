@@ -5,6 +5,5 @@ Mock justin bieber store CLI used to purchase items/merchandise or to manage inv
 ![](/images/biebay1.png)
 ![](/images/biebay2.png)
 ![](/images/biebay3.png)
-![](/images/biebay4.png)
+
 ![](/images/biebay5.png)
-![](/images/biebay6.png)
